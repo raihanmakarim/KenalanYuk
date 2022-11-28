@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929448737525",
+    "project_id": "kenalanyuk",
+    "storage_bucket": "kenalanyuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929448737525:android:973e359296cca6789d63bc",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929448737525-ebpq5s01ig30asdv3a5jmamthv380b5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8MVL78fs-t8TKg-LJ17xIBKbixp7oCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929448737525-ebpq5s01ig30asdv3a5jmamthv380b5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
